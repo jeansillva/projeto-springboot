@@ -4,7 +4,6 @@ import java.io.Serializable;
 import java.time.Instant;
 
 import com.fasterxml.jackson.annotation.JsonFormat;
-import com.fasterxml.jackson.annotation.JsonIgnore;
 import com.jeansillva.projetospring.entities.enums.OrderStatus;
 
 import jakarta.persistence.Entity;
